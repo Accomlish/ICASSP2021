@@ -16,7 +16,7 @@ Examples of synthesized speech  systems.
 
 
 
-Speech samples are available at   [demo page](https://github.com/ttsdemo/).
+Speech samples are available at   [demo page](https://github.com/Accomlish/ttsdemo/).
 
 
 
