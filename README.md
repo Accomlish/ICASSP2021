@@ -1,13 +1,8 @@
 # ICASSP2020-demo
 
-__"Teacher-Student Training for Robust Tacotron-based TTS"__,
+__"Multi-Stage Cross-Lingual Transfer Learning for Mandarin Emotional TTS"__,
 
-
-__Authors__: Rui Liu, Berrak Sisman, Jingdong Li, Feilong Bao, Guanglai Gao, Haizhou Li
-
-accepted and to be presented at __ICASSP2020__
-
-[paper](https://arxiv.org/pdf/1911.02839.pdf)
+https://arxiv.org/pdf/1911.02839.pdf)
 
 
 ## Speech samples
