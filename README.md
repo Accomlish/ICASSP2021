@@ -1,8 +1,6 @@
 # ICASSP2020-demo
 
-__"Multi-Stage Cross-Lingual Transfer Learning for Mandarin Emotional TTS"__,
-
-https://arxiv.org/pdf/1911.02839.pdf)
+__"Multi-Stage Cross-Lingual Transfer Learning for Mandarin Emotional TTS"__
 
 
 ## Speech samples
