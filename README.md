@@ -14,17 +14,4 @@ Speech samples are available at   [demo page](https://github.com/Accomlish/ttsde
 
 
 
-
-
-
-
-### Reference
-
-Please kindly cite this paper in your publications if it helps your research:
-
-```
-
-```
-
-
-
+ 
